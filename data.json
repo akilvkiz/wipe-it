@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Sticker Pack 1",
+        "price": 5.99,
+        "description": "A pack of colorful, custom stickers."
+      },
+      {
+        "id": 2,
+        "name": "Chocolate Box",
+        "price": 14.99,
+        "description": "A selection of premium imported chocolates."
+      },
+      {
+        "id": 3,
+        "name": "Luxury Perfume",
+        "price": 49.99,
+        "description": "A fragrance that lasts all day."
+      }
+    ]
+  }
+
+  
